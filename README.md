@@ -155,3 +155,67 @@
 - Objective Functions
 - Constraints
 - Gradient Descent (Intro level)
+
+## DeepSeek response
+
+## 1. **Algebra & Functions**
+   - Basic algebraic operations (solving equations, inequalities)
+   - Functions and their properties (linear, quadratic, exponential, logarithmic)
+   - Polynomials and rational functions
+   - Systems of equations (linear and nonlinear)
+
+## 2. **Linear Algebra**
+   - Vectors and vector operations (addition, dot product, cross product)
+   - Matrices and matrix operations (addition, multiplication, transpose)
+   - Matrix inverses and determinants
+   - Eigenvalues and eigenvectors
+   - Solving linear systems (Gaussian elimination, matrix factorization)
+
+## 3. **Calculus**
+   - **Single-variable calculus**:
+     - Limits and continuity
+     - Derivatives (rules, chain rule, optimization)
+     - Integrals (definite, indefinite, applications)
+   - **Multivariable calculus**:
+     - Partial derivatives
+     - Gradients and directional derivatives
+     - Optimization with multiple variables (minima, maxima, saddle points)
+
+## 4. **Statistics & Probability**
+   - **Descriptive Statistics**:
+     - Mean, median, mode, variance, standard deviation
+     - Percentiles, quartiles, box plots
+   - **Probability**:
+     - Basic probability rules (independent/dependent events, Bayes' theorem)
+     - Probability distributions (Gaussian, Binomial, Poisson, Exponential)
+     - Random variables (discrete vs. continuous)
+     - Expectation, variance, covariance
+   - **Inferential Statistics**:
+     - Hypothesis testing (t-tests, z-tests, p-values)
+     - Confidence intervals
+     - Regression analysis (linear, logistic)
+
+## 5. **Discrete Mathematics**
+   - Sets, relations, and functions
+   - Combinatorics (permutations, combinations)
+   - Graph theory basics (nodes, edges, trees)
+   - Logic and proofs (propositional logic, truth tables)
+
+## 6. **Optimization**
+   - Basics of optimization (convex vs. non-convex functions)
+   - Gradient descent and stochastic gradient descent
+   - Loss functions (MSE, cross-entropy)
+   - Regularization techniques (L1/L2 regularization)
+
+## 7. **Additional Topics**
+   - **Dimensionality reduction** (PCA, SVD)
+   - **Basics of information theory** (entropy, KL divergence)
+   - **Basic programming math** (complexity analysis, loops, recursion)
+
+---
+
+### Tips for Learning:
+- **Practice problems**: Use platforms like Khan Academy, Brilliant, or Coursera.
+- **Apply math with Python**: Use libraries like NumPy, Pandas, and SciPy.
+- **Start small**: Focus on intuition before diving into proofs.
+- **Consistency**: Dedicate daily time to build math fluency.
